@@ -1,0 +1,1014 @@
+1681323432671,129,S01_APC_T01_Launch_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-4,,true,,16917,3819,5,5,null,0,1268,33
+1681323432754,45,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-4,text,true,,2399,375,5,5,http://localhost/,44,0,32
+1681323432801,20,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-4,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,20,0,1
+1681323432883,13,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,13,0,0
+1681323432897,8,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,8,0,0
+1681323432906,6,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323432912,12,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,10,0,0
+1681323432924,7,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323432931,10,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,8,0,0
+1681323432941,8,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,6,0,0
+1681323432671,127,S01_APC_T01_Launch_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3819,5,5,null,0,1631,33
+1681323432754,45,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-5,text,true,,2399,375,5,5,http://localhost/,44,0,32
+1681323432801,20,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-5,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,20,0,1
+1681323432883,12,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,12,0,0
+1681323432897,6,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,5,0,0
+1681323432903,7,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,7,0,0
+1681323432911,13,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,13,0,0
+1681323432924,8,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323432932,7,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,7,0,0
+1681323432940,9,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1681323432671,128,S01_APC_T01_Launch_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16917,3819,5,5,null,0,2299,33
+1681323432754,45,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-1,text,true,,2399,375,5,5,http://localhost/,44,0,32
+1681323432801,20,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-1,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,20,0,1
+1681323432883,13,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,12,0,0
+1681323432897,8,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,8,0,0
+1681323432905,7,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,6,0,0
+1681323432912,12,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,12,0,0
+1681323432924,9,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323432933,8,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323432942,6,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323432671,133,S01_APC_T01_Launch_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3819,5,5,null,0,2516,33
+1681323432754,45,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-2,text,true,,2399,375,5,5,http://localhost/,44,0,32
+1681323432801,24,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-2,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,24,0,1
+1681323432883,13,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,12,0,0
+1681323432897,7,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,6,0,0
+1681323432904,6,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,6,0,0
+1681323432911,13,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,11,0,0
+1681323432924,8,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323432933,8,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323432941,9,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1681323432671,126,S01_APC_T01_Launch_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3819,5,5,null,0,2960,33
+1681323432754,45,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-3,text,true,,2399,375,5,5,http://localhost/,44,0,32
+1681323432801,20,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-3,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,20,0,1
+1681323432883,13,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,12,0,0
+1681323432897,6,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,6,0,0
+1681323432903,7,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,7,0,0
+1681323432911,13,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,11,0,0
+1681323432924,9,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323432933,6,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323432940,7,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1681323434079,41,S01_APC_T02_ClickOnTabTables_user3,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,14518,3448,5,5,null,0,2242,0
+1681323434080,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323434093,5,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323434098,8,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,8,0,0
+1681323434106,4,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323434111,4,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323434115,4,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323434120,4,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323434124,5,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323435320,37,S01_APC_T02_ClickOnTabTables_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,14518,3448,5,5,null,0,1066,0
+1681323435321,6,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323435328,4,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323435333,4,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323435337,5,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323435343,6,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323435349,4,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323435354,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323435359,4,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323434430,41,S01_APC_T02_ClickOnTabTables_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-5,,true,,14518,3448,5,5,null,0,2588,0
+1681323434430,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323434439,4,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323434443,4,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323434448,5,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323434454,5,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323434459,5,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323434464,6,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323434470,5,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323435098,39,S01_APC_T02_ClickOnTabTables_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-1,,true,,14518,3448,5,5,null,0,2358,0
+1681323435099,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323435107,4,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323435111,4,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323435115,4,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323435120,4,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323435124,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323435129,6,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1681323435135,6,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,6,0,0
+1681323435757,36,S01_APC_T02_ClickOnTabTables_user5,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-3,,true,,14518,3448,5,5,null,0,2185,0
+1681323435758,6,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323435765,5,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1681323435770,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323435774,4,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323435778,5,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323435784,5,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323435789,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323435793,4,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323437060,12,S01_APC_T03_OpenTableProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,16493,1662,5,5,null,0,1573,0
+1681323437060,9,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,9,0,0
+1681323437071,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323437073,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323437075,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323438646,28,S01_APC_T04_AddTableToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4516,908,5,5,null,0,1,0
+1681323438646,16,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-5,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,16,0,0
+1681323438663,12,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-5,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/deed5a6fbfbc4a51a8646542335b2263?lang=en,12,0,0
+1681323437495,13,S01_APC_T03_OpenTableProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,16493,1662,5,5,null,0,1169,0
+1681323437496,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323437504,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323437506,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323437508,2,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323438677,39,S01_APC_T04_AddTableToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4516,908,5,5,null,0,2,0
+1681323438677,24,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-1,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,21,0,0
+1681323438702,15,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-1,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/bfdc4a2c29df49beadb7a7193028b1e7?lang=en,15,0,0
+1681323436362,11,S01_APC_T03_OpenTableProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,16493,1662,5,5,null,0,2808,0
+1681323436362,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,6,0,0
+1681323436370,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323436372,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323436374,2,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323439182,16,S01_APC_T04_AddTableToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-4,,true,,4516,908,5,5,null,0,2,0
+1681323439182,9,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-4,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,9,0,0
+1681323439192,7,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-4,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/16d7b7bec94b4f838df815cc8ee806f0?lang=en,7,0,0
+1681323439203,3,Debug Sampler,200,OK,AddProductsToCart 1-4,text,true,,944,0,5,5,null,0,0,0
+1681323436423,13,S01_APC_T03_OpenTableProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,16493,1662,5,5,null,0,2900,0
+1681323436423,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323436431,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323436434,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323436436,2,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323439337,18,S01_APC_T04_AddTableToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4516,908,5,5,null,0,1,0
+1681323439337,11,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-2,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,11,0,0
+1681323439349,7,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-2,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/a75cfbf59fd645f1a83edafb571fa5a9?lang=en,6,0,0
+1681323439357,1,Debug Sampler,200,OK,AddProductsToCart 1-2,text,true,,951,0,5,5,null,0,0,0
+1681323438676,57,S01_APC_T05_ClickOnTabChairs_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3838,5,5,null,0,1354,0
+1681323438676,7,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323438684,2,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-5,text,true,,2399,390,5,5,http://localhost/category/chairs,2,0,0
+1681323438687,4,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323438692,5,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,5,0,0
+1681323438698,5,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323438703,9,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,8,0,0
+1681323438713,8,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,8,0,0
+1681323438721,9,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,9,0,0
+1681323438730,8,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1681323437979,12,S01_APC_T03_OpenTableProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,16493,1662,5,5,null,0,2556,0
+1681323437979,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323437987,3,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,3,0,0
+1681323437991,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323437993,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323440547,20,S01_APC_T04_AddTableToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4516,908,5,5,null,0,1,0
+1681323440547,14,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-3,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,14,0,0
+1681323440562,6,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-3,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/cd78ec1c5d834040ad48c08535480a49?lang=en,6,0,0
+1681323440568,1,Debug Sampler,200,OK,AddProductsToCart 1-3,text,true,,944,0,5,5,null,0,0,0
+1681323439358,41,S01_APC_T01_Launch_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3819,5,5,null,0,1530,0
+1681323439359,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-2,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323439361,6,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-2,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,6,0,0
+1681323439368,4,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323439372,4,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323439377,5,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323439382,5,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323439387,6,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323439394,5,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1681323439399,4,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323438718,46,S01_APC_T05_ClickOnTabChairs_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16917,3838,5,5,null,0,2697,0
+1681323438718,8,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,8,0,0
+1681323438727,2,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-1,text,true,,2399,390,5,5,http://localhost/category/chairs,2,0,0
+1681323438730,3,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323438734,4,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323438738,11,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,11,0,0
+1681323438749,5,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323438754,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323438758,5,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1681323438763,4,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323439208,41,S01_APC_T01_Launch_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-4,,true,,16917,3819,5,5,null,0,2256,0
+1681323439208,3,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-4,text,true,,2399,375,5,5,http://localhost/,3,0,0
+1681323439211,7,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-4,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323439220,3,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323439224,4,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323439228,5,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323439233,4,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323439237,6,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323439243,5,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323439248,4,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323440569,46,S01_APC_T01_Launch_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3819,5,5,null,0,1087,0
+1681323440570,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-3,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323440572,7,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-3,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,6,0,0
+1681323440580,4,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323440584,4,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323440588,6,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323440594,6,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323440600,7,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323440608,5,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1681323440613,5,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323440929,40,S01_APC_T02_ClickOnTabTables_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,14518,3448,5,5,null,0,1581,0
+1681323440930,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323440938,3,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323440941,5,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,5,0,0
+1681323440947,4,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323440952,6,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323440958,5,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323440963,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323440968,6,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323440087,11,S01_APC_T06_OpenRandomChairProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,9596,1632,5,5,null,0,2947,0
+1681323440087,3,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-5,text,true,,2399,388,5,5,http://localhost/product/chair,3,0,0
+1681323440140,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323440143,3,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,3,0,0
+1681323440146,3,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323441461,15,S01_APC_T06_OpenRandomChairProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,9596,1632,5,5,null,0,2058,0
+1681323441462,3,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-1,text,true,,2399,388,5,5,http://localhost/product/chair,3,0,0
+1681323441469,3,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,3,0,0
+1681323441472,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323441474,7,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,7,0,0
+1681323441702,36,S01_APC_T02_ClickOnTabTables_user3,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-3,,true,,14518,3448,5,5,null,0,1911,0
+1681323441703,6,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323441710,5,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,5,0,0
+1681323441716,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323441719,5,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323441724,5,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323441729,4,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323441734,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323441738,4,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323443045,19,S01_APC_T07_AddChairToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4714,903,5,5,null,0,1044,0
+1681323443045,17,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-5,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,16,0,0
+1681323443062,2,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/cart/deed5a6fbfbc4a51a8646542335b2263?lang=en,2,0,0
+1681323444109,0,Debug Sampler,200,OK,AddProductsToCart 1-5,text,true,,943,0,5,5,null,0,0,0
+1681323441505,37,S01_APC_T02_ClickOnTabTables_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,14518,3448,5,5,null,0,2668,0
+1681323441506,6,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323441513,4,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323441517,3,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323441521,5,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323441527,4,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323441531,5,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323441536,4,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323441540,6,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,6,0,0
+1681323442551,11,S01_APC_T03_OpenTableProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,16493,1662,5,5,null,0,2544,0
+1681323442551,6,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,6,0,0
+1681323442558,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323442560,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323442563,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323445106,27,S01_APC_T04_AddTableToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4516,908,5,5,null,0,3,0
+1681323445106,15,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-2,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,14,0,0
+1681323445121,12,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-2,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/66e7f8241bcb4f84a25fb0d7a379f5da?lang=en,12,0,0
+1681323445137,1,Debug Sampler,200,OK,AddProductsToCart 1-2,text,true,,943,0,5,5,null,0,0,0
+1681323444210,18,S01_APC_T03_OpenTableProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,16493,1662,5,5,null,0,1182,0
+1681323444210,9,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,9,0,0
+1681323444220,4,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,4,0,0
+1681323444224,3,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,3,0,0
+1681323444227,2,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323445410,22,S01_APC_T04_AddTableToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-4,,true,,4516,908,5,5,null,0,0,0
+1681323445410,13,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-4,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,12,0,0
+1681323445423,9,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-4,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/ec52a77ec08447ad8590a513ba78caea?lang=en,8,0,0
+1681323443649,10,S01_APC_T03_OpenTableProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,16493,1662,5,5,null,0,2084,0
+1681323443650,5,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,5,0,0
+1681323443656,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323443658,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323443661,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323445743,17,S01_APC_T04_AddTableToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4516,908,5,5,null,0,2,0
+1681323445743,10,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-3,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,10,0,0
+1681323445754,7,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-3,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/7a3ae3441f7f4de8bd44cff638b49ed5?lang=en,7,0,0
+1681323443535,14,S01_APC_T07_AddChairToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4714,903,5,5,null,0,2363,0
+1681323443535,13,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-1,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,13,0,0
+1681323443549,1,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/cart/bfdc4a2c29df49beadb7a7193028b1e7?lang=en,1,0,0
+1681323445138,48,S01_APC_T01_Launch_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3819,5,5,null,0,1148,0
+1681323445138,4,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-2,text,true,,2399,375,5,5,http://localhost/,4,0,0
+1681323445143,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-2,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,8,0,0
+1681323445152,4,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323445156,5,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,5,0,0
+1681323445162,5,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323445167,6,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323445174,4,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323445178,6,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323445184,6,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,6,0,0
+1681323444109,46,S01_APC_T01_Launch_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3819,5,5,null,0,2286,0
+1681323444109,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-5,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323444112,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-5,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323444121,5,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323444126,4,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323444130,4,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323444135,7,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323444142,4,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323444146,5,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1681323444151,7,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,6,0,0
+1681323445762,34,S01_APC_T05_ClickOnTabChairs_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3838,5,5,null,0,1808,0
+1681323445762,5,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,5,0,0
+1681323445767,2,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-3,text,true,,2399,390,5,5,http://localhost/category/chairs,2,0,0
+1681323445769,4,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323445774,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323445777,3,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323445781,3,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323445785,5,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323445791,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323445795,5,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323446335,35,S01_APC_T02_ClickOnTabTables_user5,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,14518,3448,5,5,null,0,1481,0
+1681323446335,6,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323446342,3,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323446345,5,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,5,0,0
+1681323446350,4,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323446354,5,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323446360,4,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323446365,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323446369,4,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323445912,21,S01_APC_T08_OpenCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,9455,1682,5,5,null,0,1982,0
+1681323445912,14,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-1,text,true,,2258,438,5,5,http://localhost:8080/api/v1/cart/bfdc4a2c29df49beadb7a7193028b1e7?store=DEFAULT,14,0,0
+1681323445926,3,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,3,0,0
+1681323445929,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323445931,2,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323445432,41,S01_APC_T05_ClickOnTabChairs_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-4,,true,,16917,3838,5,5,null,0,2529,0
+1681323445432,8,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323445440,2,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-4,text,true,,2399,390,5,5,http://localhost/category/chairs,2,0,0
+1681323445442,4,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323445447,3,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323445451,5,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,5,0,0
+1681323445456,5,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323445462,6,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323445468,4,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323445473,4,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323446441,41,S01_APC_T02_ClickOnTabTables_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-5,,true,,14518,3448,5,5,null,0,2295,0
+1681323446441,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323446449,4,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323446453,5,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323446458,5,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323446463,6,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323446469,5,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323446475,5,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323446480,4,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323448004,9,S01_APC_T06_OpenRandomChairProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,9596,1638,5,5,null,0,1520,0
+1681323448004,4,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-4,text,true,,2399,394,5,5,http://localhost/product/chair-beige,4,0,0
+1681323448012,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323448014,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323448015,2,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323447852,12,S01_APC_T03_OpenTableProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,16493,1662,5,5,null,0,1845,0
+1681323447853,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,6,0,0
+1681323447860,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323447863,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323447864,2,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323449709,19,S01_APC_T04_AddTableToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4516,908,5,5,null,0,1,0
+1681323449709,10,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-2,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,10,0,0
+1681323449720,9,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-2,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/5064d77eae634e03b4b4eac870f29561?lang=en,8,0,0
+1681323447917,13,S01_APC_T09_ClickProceedToCheckout_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-1,,true,,19192,3295,5,5,null,0,1911,0
+1681323447917,4,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-1,text,true,,2399,383,5,5,http://localhost/checkout,4,0,0
+1681323447922,2,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-1,text,true,,2399,433,5,5,http://localhost/api/v1/cart/bfdc4a2c29df49beadb7a7193028b1e7?store=DEFAULT,2,0,0
+1681323447924,2,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-1,text,true,,2399,420,5,5,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,2,0,0
+1681323447926,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-1,text,true,,2399,389,5,5,http://localhost/api/v1/config/,1,0,0
+1681323447927,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-1,text,true,,2399,426,5,5,http://localhost/api/v1/cart/bfdc4a2c29df49beadb7a7193028b1e7/total/,1,0,0
+1681323447928,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323447930,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323447931,1,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323449841,0,Debug Sampler,200,OK,AddProductsToCart 1-1,text,true,,944,0,5,5,null,0,0,0
+1681323447604,10,S01_APC_T06_OpenRandomChairProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,9596,1632,5,5,null,0,2718,0
+1681323447604,4,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-3,text,true,,2399,388,5,5,http://localhost/product/chair,4,0,0
+1681323447611,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323447613,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323447615,2,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323448778,11,S01_APC_T03_OpenTableProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,16493,1662,5,5,null,0,2113,0
+1681323448778,5,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,5,0,0
+1681323448784,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323448786,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323448788,2,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323450902,20,S01_APC_T04_AddTableToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4516,908,5,5,null,0,0,0
+1681323450902,10,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-5,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,10,0,0
+1681323450912,10,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-5,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/65e14c0004c84f20ac25632cc721b4f7?lang=en,10,0,0
+1681323449842,33,S01_APC_T01_Launch_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16917,3819,5,5,null,0,1609,0
+1681323449843,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-1,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323449846,7,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-1,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323449854,3,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323449858,3,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323449862,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323449865,3,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323449869,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323449873,4,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323449877,4,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323449534,14,S01_APC_T07_AddChairToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-4,,true,,4714,903,5,5,null,0,2135,0
+1681323449534,13,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-4,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,12,0,0
+1681323449547,1,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/cart/ec52a77ec08447ad8590a513ba78caea?lang=en,1,0,0
+1681323449729,32,S01_APC_T05_ClickOnTabChairs_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3838,5,5,null,0,2399,0
+1681323449729,5,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,4,0,0
+1681323449734,2,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-2,text,true,,2399,390,5,5,http://localhost/category/chairs,2,0,0
+1681323449737,3,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323449740,3,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323449743,3,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323449747,3,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323449750,4,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323449754,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323449758,5,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323450333,15,S01_APC_T07_AddChairToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4714,903,5,5,null,0,2045,0
+1681323450333,13,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-3,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,13,0,0
+1681323450346,2,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/cart/7a3ae3441f7f4de8bd44cff638b49ed5?lang=en,1,0,0
+1681323452393,1,Debug Sampler,200,OK,AddProductsToCart 1-3,text,true,,944,0,5,5,null,0,0,0
+1681323450922,10,S01_APC_T08_OpenCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,9455,1682,5,5,null,0,2023,0
+1681323450922,6,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-5,text,true,,2258,438,5,5,http://localhost:8080/api/v1/cart/65e14c0004c84f20ac25632cc721b4f7?store=DEFAULT,6,0,0
+1681323450928,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323450930,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323450932,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323451484,35,S01_APC_T02_ClickOnTabTables_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-1,,true,,14518,3448,5,5,null,0,1646,0
+1681323451484,9,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,8,0,0
+1681323451493,4,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323451497,3,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323451500,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323451503,4,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323451507,3,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323451510,4,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323451515,5,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323452399,37,S01_APC_T01_Launch_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3819,5,5,null,0,1018,0
+1681323452399,4,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-3,text,true,,2399,375,5,5,http://localhost/,4,0,0
+1681323452403,9,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-3,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,9,0,0
+1681323452413,3,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323452416,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323452419,4,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323452423,4,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323452427,3,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323452430,3,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323452433,4,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323451683,14,S01_APC_T08_OpenCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,9455,1682,5,5,null,0,1927,0
+1681323451683,8,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-4,text,true,,2258,438,5,5,http://localhost:8080/api/v1/cart/ec52a77ec08447ad8590a513ba78caea?store=DEFAULT,8,0,0
+1681323451691,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323451693,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323451695,2,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323452161,10,S01_APC_T06_OpenRandomChairProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,9596,1638,5,5,null,0,2624,0
+1681323452161,5,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-2,text,true,,2399,394,5,5,http://localhost/product/chair-beige,5,0,0
+1681323452171,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323452173,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323452175,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323453623,12,S01_APC_T09_ClickProceedToCheckout_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,19192,3295,5,5,null,0,1394,0
+1681323453623,2,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-4,text,true,,2399,383,5,5,http://localhost/checkout,2,0,0
+1681323453626,2,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-4,text,true,,2399,433,5,5,http://localhost/api/v1/cart/ec52a77ec08447ad8590a513ba78caea?store=DEFAULT,2,0,0
+1681323453628,1,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-4,text,true,,2399,420,5,5,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,1,0,0
+1681323453630,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-4,text,true,,2399,389,5,5,http://localhost/api/v1/config/,1,0,0
+1681323453632,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-4,text,true,,2399,426,5,5,http://localhost/api/v1/cart/ec52a77ec08447ad8590a513ba78caea/total/,1,0,0
+1681323453633,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323453635,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323453637,1,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323455029,0,Debug Sampler,200,OK,AddProductsToCart 1-4,text,true,,950,0,5,5,null,0,0,0
+1681323452954,16,S01_APC_T09_ClickProceedToCheckout_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-5,,true,,19192,3295,5,5,null,0,2105,0
+1681323452954,5,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-5,text,true,,2399,383,5,5,http://localhost/checkout,5,0,0
+1681323452960,3,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-5,text,true,,2399,433,5,5,http://localhost/api/v1/cart/65e14c0004c84f20ac25632cc721b4f7?store=DEFAULT,3,0,0
+1681323452963,2,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-5,text,true,,2399,420,5,5,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,1,0,0
+1681323452965,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-5,text,true,,2399,389,5,5,http://localhost/api/v1/config/,1,0,0
+1681323452966,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-5,text,true,,2399,426,5,5,http://localhost/api/v1/cart/65e14c0004c84f20ac25632cc721b4f7/total/,1,0,0
+1681323452967,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323452968,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323452970,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323455075,0,Debug Sampler,200,OK,AddProductsToCart 1-5,text,true,,951,0,5,5,null,0,0,0
+1681323453164,15,S01_APC_T03_OpenTableProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,16493,1662,5,5,null,0,2097,0
+1681323453164,10,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,10,0,0
+1681323453174,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323453176,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323453178,1,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323455276,21,S01_APC_T04_AddTableToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4516,908,5,5,null,0,2,0
+1681323455277,12,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-1,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,12,0,0
+1681323455290,9,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-1,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/09b78cb0f8ed4a50b51f3d3b33af1c60?lang=en,9,0,0
+1681323455299,1,Debug Sampler,200,OK,AddProductsToCart 1-1,text,true,,952,0,5,5,null,0,0,0
+1681323455076,40,S01_APC_T01_Launch_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3819,5,5,null,0,1140,0
+1681323455076,1,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-5,text,true,,2399,375,5,5,http://localhost/,1,0,0
+1681323455078,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-5,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,8,0,0
+1681323455087,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323455090,3,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323455094,3,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323455097,6,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323455103,6,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323455109,5,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323455114,5,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323454795,19,S01_APC_T07_AddChairToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4714,903,5,5,null,0,1596,0
+1681323454795,16,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-2,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,16,0,0
+1681323454811,3,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/cart/5064d77eae634e03b4b4eac870f29561?lang=en,2,0,0
+1681323456410,0,Debug Sampler,200,OK,AddProductsToCart 1-2,text,true,,949,0,5,5,null,0,0,0
+1681323453453,37,S01_APC_T02_ClickOnTabTables_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-3,,true,,14518,3448,5,5,null,0,2952,0
+1681323453453,6,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323453460,4,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323453465,4,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323453469,4,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323453473,5,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323453478,5,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323453484,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323453489,5,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323455030,45,S01_APC_T01_Launch_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-4,,true,,16917,3819,5,5,null,0,2618,0
+1681323455030,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-4,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323455032,9,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-4,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,9,0,0
+1681323455041,4,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323455045,4,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323455049,4,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323455053,5,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323455058,6,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323455067,7,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323455074,4,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323456256,35,S01_APC_T02_ClickOnTabTables_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-5,,true,,14518,3448,5,5,null,0,1612,0
+1681323456256,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323456264,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323456268,4,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323456272,6,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,6,0,0
+1681323456278,5,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323456283,4,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323456287,3,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323456290,3,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323455300,31,S01_APC_T01_Launch_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16917,3819,5,5,null,0,2723,0
+1681323455300,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-1,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323455302,5,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-1,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,5,0,0
+1681323455308,3,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323455312,3,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323455315,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323455318,4,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323455322,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323455326,3,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323455329,4,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323456442,8,S01_APC_T03_OpenTableProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,16493,1662,5,5,null,0,2145,0
+1681323456442,5,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,5,0,0
+1681323456448,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323456449,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323456450,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323458596,20,S01_APC_T04_AddTableToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4516,908,5,5,null,0,1,0
+1681323458596,12,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-3,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,12,0,0
+1681323458609,8,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-3,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/27894c8983d54be9a64c3e0f211d5c42?lang=en,8,0,0
+1681323456414,32,S01_APC_T01_Launch_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3819,5,5,null,0,2476,0
+1681323456414,4,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-2,text,true,,2399,375,5,5,http://localhost/,4,0,0
+1681323456418,7,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-2,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323456426,3,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323456429,3,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323456432,3,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323456435,3,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323456439,3,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323456442,3,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323456446,3,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323457695,34,S01_APC_T02_ClickOnTabTables_user3,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,14518,3448,5,5,null,0,1854,0
+1681323457695,10,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,10,0,0
+1681323457705,4,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323457709,3,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323457712,3,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323457715,4,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323457719,3,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323457722,4,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323457726,3,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323458055,36,S01_APC_T02_ClickOnTabTables_user5,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-1,,true,,14518,3448,5,5,null,0,1762,0
+1681323458055,13,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,12,0,0
+1681323458068,4,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323458072,3,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323458075,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323458079,3,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323458082,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323458086,3,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323458089,3,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323458617,33,S01_APC_T05_ClickOnTabChairs_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3838,5,5,null,0,1497,0
+1681323458618,4,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,4,0,0
+1681323458622,1,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-3,text,true,,2399,390,5,5,http://localhost/category/chairs,1,0,0
+1681323458623,4,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323458627,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323458630,3,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323458633,6,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323458639,4,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323458643,5,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323458648,3,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323458923,39,S01_APC_T02_ClickOnTabTables_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,14518,3448,5,5,null,0,1203,0
+1681323458923,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323458931,4,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323458935,4,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323458939,3,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323458942,7,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,7,0,0
+1681323458949,5,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323458954,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323458959,5,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323457905,11,S01_APC_T03_OpenTableProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,16493,1662,5,5,null,0,2614,0
+1681323457905,6,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,6,0,0
+1681323457912,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323457914,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323457916,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323460530,19,S01_APC_T04_AddTableToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4516,908,5,5,null,0,1,0
+1681323460531,10,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-5,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,10,0,0
+1681323460541,9,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-5,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/2bf6505887d644039ad9c1bb3f16c73d?lang=en,9,0,0
+1681323459583,11,S01_APC_T03_OpenTableProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,16493,1662,5,5,null,0,1600,0
+1681323459583,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323459590,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323459592,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323459594,1,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323461194,16,S01_APC_T04_AddTableToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-4,,true,,4516,908,5,5,null,0,2,0
+1681323461195,10,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-4,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,10,0,0
+1681323461205,6,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-4,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/bc342d1a454c4a8abb37ddc813fada0b?lang=en,6,0,0
+1681323461212,0,Debug Sampler,200,OK,AddProductsToCart 1-4,text,true,,952,0,5,5,null,0,0,0
+1681323460147,7,S01_APC_T06_OpenRandomChairProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,9596,1638,5,5,null,0,1438,0
+1681323460147,3,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-3,text,true,,2399,394,5,5,http://localhost/product/chair-beige,2,0,0
+1681323460152,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323460154,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323460155,2,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323460165,9,S01_APC_T03_OpenTableProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,16493,1662,5,5,null,0,1687,0
+1681323460165,5,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,5,0,0
+1681323460171,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323460172,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323460174,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323461861,22,S01_APC_T04_AddTableToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4516,908,5,5,null,0,0,0
+1681323461861,14,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-2,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,13,0,0
+1681323461875,8,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-2,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/7f27611255924818b893d8b79ca17bcf?lang=en,8,0,0
+1681323459854,15,S01_APC_T03_OpenTableProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,16493,1662,5,5,null,0,2725,0
+1681323459854,10,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,10,0,0
+1681323459865,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323459867,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323459869,1,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323462595,17,S01_APC_T04_AddTableToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4516,908,5,5,null,0,1,0
+1681323462595,11,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-1,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,11,0,0
+1681323462606,6,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-1,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/80bb1e4875214325903af7a73979ac04?lang=en,6,0,0
+1681323462613,0,Debug Sampler,200,OK,AddProductsToCart 1-1,text,true,,944,0,5,5,null,0,0,0
+1681323461212,29,S01_APC_T01_Launch_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-4,,true,,16917,3819,5,5,null,0,1759,0
+1681323461212,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-4,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323461214,7,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-4,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323461222,3,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323461225,2,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323461228,2,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323461231,3,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323461234,3,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323461237,3,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323461240,4,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323460550,33,S01_APC_T05_ClickOnTabChairs_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3838,5,5,null,0,2744,0
+1681323460550,4,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,4,0,0
+1681323460555,1,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-5,text,true,,2399,390,5,5,http://localhost/category/chairs,1,0,0
+1681323460556,4,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323460560,4,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323460564,4,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323460568,4,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323460572,4,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323460576,4,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323460580,4,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323462613,30,S01_APC_T01_Launch_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16917,3819,5,5,null,0,1235,0
+1681323462613,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-1,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323462615,7,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-1,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323462622,3,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323462625,3,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323462628,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323462631,3,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323462634,3,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323462637,3,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323462639,3,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323461592,15,S01_APC_T07_AddChairToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4714,903,5,5,null,0,2685,0
+1681323461593,13,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-3,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,13,0,0
+1681323461606,2,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/cart/27894c8983d54be9a64c3e0f211d5c42?lang=en,2,0,0
+1681323461883,34,S01_APC_T05_ClickOnTabChairs_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3838,5,5,null,0,2923,0
+1681323461883,6,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323461889,2,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-2,text,true,,2399,390,5,5,http://localhost/category/chairs,2,0,0
+1681323461891,3,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323461894,3,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323461898,3,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323461901,4,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323461906,4,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323461910,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323461914,5,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323463877,43,S01_APC_T02_ClickOnTabTables_user3,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-1,,true,,14518,3448,5,5,null,0,1166,0
+1681323463877,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323463885,4,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,4,0,0
+1681323463889,4,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323463893,4,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323463897,5,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,5,0,0
+1681323463902,6,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,0
+1681323463908,7,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,7,0,0
+1681323463915,6,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,6,0,0
+1681323462999,36,S01_APC_T02_ClickOnTabTables_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,14518,3448,5,5,null,0,2533,0
+1681323463000,11,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,11,0,0
+1681323463012,4,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323463016,3,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323463019,3,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323463022,4,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323463026,5,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323463032,3,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323463035,3,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323463326,10,S01_APC_T06_OpenRandomChairProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,9596,1638,5,5,null,0,2658,0
+1681323463326,4,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-5,text,true,,2399,394,5,5,http://localhost/product/chair-beige,4,0,0
+1681323463334,3,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323463337,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323463339,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323464839,10,S01_APC_T06_OpenRandomChairProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,9596,1640,5,5,null,0,1462,0
+1681323464840,5,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-2,text,true,,2399,396,5,5,http://localhost/product/genuine-chair,5,0,0
+1681323464848,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323464851,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323464852,2,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323464291,16,S01_APC_T08_OpenCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,9455,1682,5,5,null,0,2526,0
+1681323464292,12,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-3,text,true,,2258,438,5,5,http://localhost:8080/api/v1/cart/27894c8983d54be9a64c3e0f211d5c42?store=DEFAULT,11,0,0
+1681323464304,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323464306,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323464307,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323465568,15,S01_APC_T03_OpenTableProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,16493,1662,5,5,null,0,1286,0
+1681323465568,10,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,10,0,0
+1681323465579,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323465581,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323465583,1,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323466869,17,S01_APC_T04_AddTableToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-4,,true,,4516,908,5,5,null,0,0,0
+1681323466869,10,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-4,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,9,0,0
+1681323466879,7,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-4,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/fe81b58fad394657863e98b6bbb24637?lang=en,7,0,0
+1681323466887,0,Debug Sampler,200,OK,AddProductsToCart 1-4,text,true,,952,0,5,5,null,0,0,0
+1681323465086,13,S01_APC_T03_OpenTableProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,16493,1662,5,5,null,0,2817,0
+1681323465086,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323465094,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323465096,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323465098,2,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323467916,14,S01_APC_T04_AddTableToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4516,908,5,5,null,0,2,0
+1681323467917,9,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-1,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,9,0,0
+1681323467927,5,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-1,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/2a331e45e7c74c1f98cb4ed4b57fc5de?lang=en,5,0,0
+1681323466833,14,S01_APC_T09_ClickProceedToCheckout_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-3,,true,,19192,3295,5,5,null,0,1254,0
+1681323466834,5,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-3,text,true,,2399,383,5,5,http://localhost/checkout,5,0,0
+1681323466839,3,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-3,text,true,,2399,433,5,5,http://localhost/api/v1/cart/27894c8983d54be9a64c3e0f211d5c42?store=DEFAULT,3,0,0
+1681323466842,1,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-3,text,true,,2399,420,5,5,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,1,0,0
+1681323466843,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-3,text,true,,2399,389,5,5,http://localhost/api/v1/config/,1,0,0
+1681323466844,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-3,text,true,,2399,426,5,5,http://localhost/api/v1/cart/27894c8983d54be9a64c3e0f211d5c42/total/,1,0,0
+1681323466845,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323466846,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323466847,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323468101,1,Debug Sampler,200,OK,AddProductsToCart 1-3,text,true,,950,0,5,5,null,0,0,0
+1681323466311,20,S01_APC_T07_AddChairToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4714,903,5,5,null,0,1977,0
+1681323466311,18,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-2,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,18,0,0
+1681323466329,2,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/cart/7f27611255924818b893d8b79ca17bcf?lang=en,2,0,0
+1681323465994,17,S01_APC_T07_AddChairToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4714,903,5,5,null,0,2755,0
+1681323465995,15,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-5,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,15,0,0
+1681323466010,2,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/cart/2bf6505887d644039ad9c1bb3f16c73d?lang=en,2,0,0
+1681323468767,0,Debug Sampler,200,OK,AddProductsToCart 1-5,text,true,,949,0,5,5,null,0,0,0
+1681323468103,33,S01_APC_T01_Launch_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3819,5,5,null,0,1378,0
+1681323468103,3,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-3,text,true,,2399,375,5,5,http://localhost/,3,0,0
+1681323468106,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-3,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323468115,2,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,2,0,0
+1681323468117,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323468121,2,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323468124,3,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323468127,4,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323468131,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323468135,4,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323466887,40,S01_APC_T01_Launch_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-4,,true,,16917,3819,5,5,null,0,2648,0
+1681323466887,1,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-4,text,true,,2399,375,5,5,http://localhost/,1,0,0
+1681323466889,6,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-4,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,6,0,0
+1681323466895,3,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323466899,6,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323466905,4,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323466909,3,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323466912,5,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323466917,7,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323466924,5,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323467932,26,S01_APC_T05_ClickOnTabChairs_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16917,3838,5,5,null,0,2593,0
+1681323467932,5,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,5,0,0
+1681323467938,1,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-1,text,true,,2399,390,5,5,http://localhost/category/chairs,1,0,0
+1681323467939,2,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,2,0,0
+1681323467942,2,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323467944,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323467947,3,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323467950,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323467954,3,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323467957,3,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323468308,17,S01_APC_T08_OpenCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,9455,1682,5,5,null,0,2463,0
+1681323468309,13,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-2,text,true,,2258,438,5,5,http://localhost:8080/api/v1/cart/7f27611255924818b893d8b79ca17bcf?store=DEFAULT,13,0,0
+1681323468323,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323468325,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323468327,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323468768,40,S01_APC_T01_Launch_user1,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3819,5,5,null,0,2481,0
+1681323468768,3,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-5,text,true,,2399,375,5,5,http://localhost/,3,0,0
+1681323468771,10,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-5,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,10,0,0
+1681323468782,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323468786,5,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323468791,4,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323468795,4,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323468799,5,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323468804,3,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323468808,3,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323470551,10,S01_APC_T06_OpenRandomChairProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,9596,1632,5,5,null,0,1095,0
+1681323470551,5,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-1,text,true,,2399,388,5,5,http://localhost/product/chair,5,0,0
+1681323470561,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323470563,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323470565,1,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323469575,31,S01_APC_T02_ClickOnTabTables_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,14489,3448,5,5,null,0,2620,1
+1681323469575,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323469582,3,api_req_DEFAULT,200,,AddProductsToCart 1-4,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323469585,3,api_req_content_pages,200,,AddProductsToCart 1-4,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323469588,3,api_req_category,200,,AddProductsToCart 1-4,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323469591,3,api_req_product_1_price,200,,AddProductsToCart 1-4,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323469594,4,api_req_product_50_price,200,,AddProductsToCart 1-4,text,true,,485,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323469598,5,api_req_product_51_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,1
+1681323469603,3,api_req_product_52_price,200,,AddProductsToCart 1-4,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323469514,40,S01_APC_T02_ClickOnTabTables_user5,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-3,,true,,14518,3448,5,5,null,0,2684,0
+1681323469515,11,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,11,0,0
+1681323469527,4,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323469531,5,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,5,0,0
+1681323469536,4,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323469540,4,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323469544,5,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323469549,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323469553,3,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323471289,30,S01_APC_T02_ClickOnTabTables_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-5,,true,,14518,3448,5,5,null,0,1298,0
+1681323471290,8,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,8,0,0
+1681323471299,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323471302,3,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323471306,3,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323471309,4,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323471313,3,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323471316,3,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323471319,3,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323470788,8,S01_APC_T09_ClickProceedToCheckout_user1,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,19192,3295,5,5,null,0,2006,0
+1681323470789,2,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-2,text,true,,2399,383,5,5,http://localhost/checkout,2,0,0
+1681323470792,1,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-2,text,true,,2399,433,5,5,http://localhost/api/v1/cart/7f27611255924818b893d8b79ca17bcf?store=DEFAULT,1,0,0
+1681323470793,1,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-2,text,true,,2399,420,5,5,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,1,0,0
+1681323470794,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-2,text,true,,2399,389,5,5,http://localhost/api/v1/config/,1,0,0
+1681323470795,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-2,text,true,,2399,426,5,5,http://localhost/api/v1/cart/7f27611255924818b893d8b79ca17bcf/total/,1,0,0
+1681323470796,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323470798,0,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,0,0,0
+1681323470799,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323472802,0,Debug Sampler,200,OK,AddProductsToCart 1-2,text,true,,951,0,5,5,null,0,0,0
+1681323471656,14,S01_APC_T07_AddChairToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4714,903,5,5,null,0,1229,0
+1681323471657,13,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-1,text,true,,2315,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,13,0,0
+1681323471670,1,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/cart/2a331e45e7c74c1f98cb4ed4b57fc5de?lang=en,1,0,0
+1681323472899,1,Debug Sampler,200,OK,AddProductsToCart 1-1,text,true,,944,0,5,5,null,0,0,0
+1681323472238,10,S01_APC_T03_OpenTableProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,16493,1662,5,5,null,0,1771,0
+1681323472238,6,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,5,0,0
+1681323472244,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323472246,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323472247,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323474019,17,S01_APC_T04_AddTableToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4516,908,5,5,null,0,1,0
+1681323474020,9,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-3,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,9,0,0
+1681323474029,8,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-3,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/e1ee02c320bc40d0a145fd2e061e8629?lang=en,8,0,0
+1681323472617,10,S01_APC_T03_OpenTableProductCart_user1,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,16493,1662,5,5,null,0,1416,0
+1681323472617,6,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,6,0,0
+1681323472623,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323472625,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323472627,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,0,0,0
+1681323472900,34,S01_APC_T01_Launch_user3,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-1,,true,,16888,3819,5,5,null,0,1117,1
+1681323472900,3,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-1,text,true,,2399,375,5,5,http://localhost/,3,0,0
+1681323472903,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-1,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,8,0,0
+1681323472912,3,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323472915,3,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323472918,3,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323472921,3,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,487,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323472924,4,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,4,0,1
+1681323472928,4,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323472932,3,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323474043,28,S01_APC_T04_AddTableToCart_user1,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4516,908,5,5,null,0,2,0
+1681323474044,20,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-5,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,19,0,0
+1681323474065,8,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-5,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/8cdc42a183ea483586ef3228db6bcbdf?lang=en,7,0,0
+1681323474074,0,Debug Sampler,200,OK,AddProductsToCart 1-5,text,true,,943,0,5,5,null,0,0,0
+1681323472803,36,S01_APC_T01_Launch_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16888,3819,5,5,null,0,1711,0
+1681323472804,3,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-2,text,true,,2399,375,5,5,http://localhost/,3,0,0
+1681323472807,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-2,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,8,0,0
+1681323472816,2,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,2,0,0
+1681323472819,2,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323472821,3,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323472824,4,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,487,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323472828,5,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,5,0,0
+1681323472833,5,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,5,0,0
+1681323472838,4,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323472226,18,S01_APC_T03_OpenTableProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,16493,1662,5,5,null,0,2518,0
+1681323472226,12,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-4,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,12,0,0
+1681323472238,3,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,3,0,0
+1681323472241,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323472243,1,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323474762,23,S01_APC_T04_AddTableToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-4,,true,,4516,908,5,5,null,0,1,0
+1681323474762,13,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-4,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,13,0,0
+1681323474776,10,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-4,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/d87d1386eafb4bd88ec0566bbcde26c2?lang=en,9,0,0
+1681323474051,43,S01_APC_T02_ClickOnTabTables_user3,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-1,,true,,14518,3448,5,5,null,0,1206,0
+1681323474051,10,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,10,0,0
+1681323474062,3,api_req_DEFAULT,200,,AddProductsToCart 1-1,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323474066,2,api_req_content_pages,200,,AddProductsToCart 1-1,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323474068,5,api_req_category,200,,AddProductsToCart 1-1,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323474073,8,api_req_product_1_price,200,,AddProductsToCart 1-1,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,7,0,0
+1681323474081,7,api_req_product_50_price,200,,AddProductsToCart 1-1,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,7,0,0
+1681323474089,4,api_req_product_51_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323474093,4,api_req_product_52_price,200,,AddProductsToCart 1-1,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323474074,40,S01_APC_T01_Launch_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16888,3819,5,5,null,0,2399,1
+1681323474074,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-5,text,true,,2399,375,5,5,http://localhost/,2,0,0
+1681323474076,9,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-5,text,true,,9296,430,5,5,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,9,0,0
+1681323474086,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323474089,3,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323474093,4,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323474097,5,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,487,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323474102,6,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,1
+1681323474108,4,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323474113,4,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323474037,47,S01_APC_T05_ClickOnTabChairs_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16888,3838,5,5,null,0,2581,1
+1681323474037,6,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,6,0,0
+1681323474044,1,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-3,text,true,,2399,390,5,5,http://localhost/category/chairs,1,0,0
+1681323474045,3,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323474048,8,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,8,0,0
+1681323474056,5,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323474062,7,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,487,438,5,5,http://localhost:8080/api/v1/product/1/price/,6,0,0
+1681323474069,7,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,6,0,1
+1681323474076,6,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,6,0,0
+1681323474082,4,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323474786,10,S01_APC_T08_OpenCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-4,,true,,9455,1682,5,5,null,0,1934,0
+1681323474786,6,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-4,text,true,,2258,438,5,5,http://localhost:8080/api/v1/cart/d87d1386eafb4bd88ec0566bbcde26c2?store=DEFAULT,6,0,0
+1681323474792,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323474794,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323474796,1,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323474550,34,S01_APC_T02_ClickOnTabTables_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,14518,3448,5,5,null,0,2374,0
+1681323474550,7,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323474558,4,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323474562,3,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323474565,4,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323474569,5,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323474574,4,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323474578,3,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323474582,4,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,4,0,0
+1681323475300,14,S01_APC_T03_OpenTableProductCart_user3,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-1,,true,,16493,1662,5,5,null,0,2134,0
+1681323475300,7,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-1,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323475308,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-1,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323475310,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-1,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323475312,3,req_api_v1_category,200,OK,AddProductsToCart 1-1,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323477448,18,S01_APC_T04_AddTableToCart_user3,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-1,,true,,4516,908,5,5,null,0,1,0
+1681323477448,12,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-1,text,true,,2258,476,5,5,http://localhost:8080/api/v1/cart/?store=DEFAULT,12,0,0
+1681323477461,6,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-1,text,true,,2258,432,5,5,http://localhost:8080/api/v1/cart/40566b64a6634c8d98969d731eae0c7d?lang=en,6,0,0
+1681323477467,0,Debug Sampler,200,OK,AddProductsToCart 1-1,text,true,,952,0,5,5,null,0,0,0
+1681323476513,33,S01_APC_T02_ClickOnTabTables_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-5,,true,,14518,3448,4,4,null,0,1058,0
+1681323476513,9,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,5,5,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,9,0,0
+1681323476523,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,5,5,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323476527,3,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,5,5,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,2,0,0
+1681323476530,3,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,5,5,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323476533,3,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,5,5,http://localhost:8080/api/v1/product/1/price/,3,0,0
+1681323476536,3,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,5,5,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323476540,4,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323476545,5,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,5,5,http://localhost:8080/api/v1/product/52/price/,5,0,0
+1681323476665,12,S01_APC_T06_OpenRandomChairProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,9596,1632,4,4,null,0,1735,0
+1681323476665,5,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-3,text,true,,2399,388,5,5,http://localhost/product/chair,5,0,0
+1681323476675,3,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,3,0,0
+1681323476678,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323476680,2,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,2,0,0
+1681323477605,15,S01_APC_T03_OpenTableProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,16493,1662,4,4,null,0,1114,0
+1681323477605,11,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,418,4,4,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,11,0,0
+1681323477617,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,4,4,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323477619,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,4,4,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323477620,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,4,4,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323478735,20,S01_APC_T04_AddTableToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4516,908,4,4,null,0,0,0
+1681323478735,11,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-5,text,true,,2258,476,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,11,0,0
+1681323478746,9,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-5,text,true,,2258,432,4,4,http://localhost:8080/api/v1/cart/32a3c39140cf457ab74418208693bdc0?lang=en,9,0,0
+1681323478414,11,S01_APC_T07_AddChairToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4714,903,4,4,null,0,1076,0
+1681323478414,10,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-3,text,true,,2315,476,4,4,http://localhost:8080/api/v1/cart/?store=DEFAULT,10,0,0
+1681323478425,1,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-3,text,true,,2399,427,4,4,http://localhost/api/v1/cart/e1ee02c320bc40d0a145fd2e061e8629?lang=en,1,0,0
+1681323479501,0,Debug Sampler,200,OK,AddProductsToCart 1-3,text,true,,944,0,4,4,null,0,0,0
+1681323476730,10,S01_APC_T09_ClickProceedToCheckout_user4,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-4,,true,,19192,3295,4,4,null,0,2852,0
+1681323476730,3,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-4,text,true,,2399,383,5,5,http://localhost/checkout,3,0,0
+1681323476734,1,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-4,text,true,,2399,433,5,5,http://localhost/api/v1/cart/d87d1386eafb4bd88ec0566bbcde26c2?store=DEFAULT,1,0,0
+1681323476736,1,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-4,text,true,,2399,420,5,5,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,1,0,0
+1681323476737,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-4,text,true,,2399,389,5,5,http://localhost/api/v1/config/,1,0,0
+1681323476738,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-4,text,true,,2399,426,5,5,http://localhost/api/v1/cart/d87d1386eafb4bd88ec0566bbcde26c2/total/,1,0,0
+1681323476739,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-4,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323476740,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-4,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323476741,1,req_api_v1_category,200,OK,AddProductsToCart 1-4,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323479594,0,Debug Sampler,200,OK,AddProductsToCart 1-4,text,true,,950,0,4,4,null,0,0,0
+1681323476958,12,S01_APC_T03_OpenTableProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,16493,1662,3,3,null,0,2767,0
+1681323476958,8,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,418,5,5,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,7,0,0
+1681323476966,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,5,5,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323476968,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,5,5,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323476969,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,5,5,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323479738,24,S01_APC_T04_AddTableToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4516,908,3,3,null,0,1,0
+1681323479738,15,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-2,text,true,,2258,476,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,15,0,0
+1681323479754,9,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-2,text,true,,2258,432,3,3,http://localhost:8080/api/v1/cart/441c72e697074887ba95ee6bb8fe69d7?lang=en,9,0,0
+1681323478756,46,S01_APC_T05_ClickOnTabChairs_user4,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-5,,true,,16917,3838,3,3,null,0,2203,0
+1681323478756,8,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-5,text,true,,9296,434,4,4,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323478764,1,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-5,text,true,,2399,390,4,4,http://localhost/category/chairs,1,0,0
+1681323478766,3,api_req_DEFAULT,200,,AddProductsToCart 1-5,text,true,,1148,400,4,4,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323478769,4,api_req_content_pages,200,,AddProductsToCart 1-5,text,true,,496,432,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,4,0,0
+1681323478773,4,api_req_category,200,,AddProductsToCart 1-5,text,true,,1516,427,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,4,0,0
+1681323478777,7,api_req_product_1_price,200,,AddProductsToCart 1-5,text,true,,516,438,4,4,http://localhost:8080/api/v1/product/1/price/,7,0,0
+1681323478785,4,api_req_product_50_price,200,,AddProductsToCart 1-5,text,true,,514,439,4,4,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323478789,8,api_req_product_51_price,200,,AddProductsToCart 1-5,text,true,,516,439,4,4,http://localhost:8080/api/v1/product/51/price/,8,0,0
+1681323478797,7,api_req_product_52_price,200,,AddProductsToCart 1-5,text,true,,516,439,4,4,http://localhost:8080/api/v1/product/52/price/,7,0,0
+1681323479763,33,S01_APC_T05_ClickOnTabChairs_user2,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-2,,true,,16917,3838,3,3,null,0,1615,0
+1681323479763,8,S01_APC_T05_ClickOnTabChairs_REQ01_products,200,,AddProductsToCart 1-2,text,true,,9296,434,3,3,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,7,0,0
+1681323479771,1,S01_APC_T02_ClickOnTabTables_REQ02_chairs,200,OK,AddProductsToCart 1-2,text,true,,2399,390,3,3,http://localhost/category/chairs,1,0,0
+1681323479772,3,api_req_DEFAULT,200,,AddProductsToCart 1-2,text,true,,1148,400,3,3,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323479775,4,api_req_content_pages,200,,AddProductsToCart 1-2,text,true,,496,432,3,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323479779,3,api_req_category,200,,AddProductsToCart 1-2,text,true,,1516,427,3,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323479782,4,api_req_product_1_price,200,,AddProductsToCart 1-2,text,true,,516,438,3,3,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323479787,3,api_req_product_50_price,200,,AddProductsToCart 1-2,text,true,,514,439,3,3,http://localhost:8080/api/v1/product/50/price/,3,0,0
+1681323479790,4,api_req_product_51_price,200,,AddProductsToCart 1-2,text,true,,516,439,3,3,http://localhost:8080/api/v1/product/51/price/,4,0,0
+1681323479794,3,api_req_product_52_price,200,,AddProductsToCart 1-2,text,true,,516,439,3,3,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323479502,38,S01_APC_T01_Launch_user5,200,"Number of samples in transaction : 9, number of failing samples : 0",AddProductsToCart 1-3,,true,,16917,3819,3,3,null,0,2168,0
+1681323479502,2,S01_APC_T01_Launch_REQ01_MAIN,200,OK,AddProductsToCart 1-3,text,true,,2399,375,4,4,http://localhost/,1,0,0
+1681323479504,8,S01_APC_T01_Launch_REQ02_FEATURED_ITEM,200,,AddProductsToCart 1-3,text,true,,9296,430,4,4,http://localhost:8080/api/v1/products/group/FEATURED_ITEM?store=&lang=en,7,0,0
+1681323479513,2,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,4,4,http://localhost:8080/api/v1/store/DEFAULT,2,0,0
+1681323479515,4,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,4,4,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323479519,3,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,4,4,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323479522,7,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,4,4,http://localhost:8080/api/v1/product/1/price/,7,0,0
+1681323479529,4,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,4,4,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323479533,4,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,4,4,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323479537,4,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,4,4,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323481411,9,S01_APC_T06_OpenRandomChairProductCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,9596,1638,3,3,null,0,1296,0
+1681323481411,4,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-2,text,true,,2399,394,3,3,http://localhost/product/chair-beige,4,0,0
+1681323481417,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,3,3,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323481419,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,3,3,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323481421,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,3,3,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323481005,9,S01_APC_T06_OpenRandomChairProductCart_user4,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-5,,true,,9596,1640,3,3,null,0,2400,0
+1681323481006,4,S01_APC_T06_OpenRandomChairProductCart_REQ01,200,OK,AddProductsToCart 1-5,text,true,,2399,396,3,3,http://localhost/product/genuine-chair,3,0,0
+1681323481012,2,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-5,text,true,,2399,395,3,3,http://localhost/api/v1/store/DEFAULT,2,0,0
+1681323481014,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-5,text,true,,2399,427,3,3,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323481016,1,req_api_v1_category,200,OK,AddProductsToCart 1-5,text,true,,2399,422,3,3,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323481709,37,S01_APC_T02_ClickOnTabTables_user5,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-3,,true,,14518,3448,3,3,null,0,2749,0
+1681323481709,12,S01_APC_T02_ClickOnTabTables_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,434,3,3,http://localhost:8080/api/v1/products/?store=DEFAULT&lang=en&page=0&count=15,12,0,0
+1681323481722,4,api_req_DEFAULT,200,,AddProductsToCart 1-3,text,true,,1148,400,3,3,http://localhost:8080/api/v1/store/DEFAULT,3,0,0
+1681323481726,3,api_req_content_pages,200,,AddProductsToCart 1-3,text,true,,496,432,3,3,http://localhost:8080/api/v1/content/pages/?page=0&count=20&store=&lang=en,3,0,0
+1681323481729,4,api_req_category,200,,AddProductsToCart 1-3,text,true,,1516,427,3,3,http://localhost:8080/api/v1/category/?count=20&page=0&store=&lang=en,3,0,0
+1681323481733,4,api_req_product_1_price,200,,AddProductsToCart 1-3,text,true,,516,438,3,3,http://localhost:8080/api/v1/product/1/price/,4,0,0
+1681323481737,4,api_req_product_50_price,200,,AddProductsToCart 1-3,text,true,,514,439,3,3,http://localhost:8080/api/v1/product/50/price/,4,0,0
+1681323481741,3,api_req_product_51_price,200,,AddProductsToCart 1-3,text,true,,516,439,3,3,http://localhost:8080/api/v1/product/51/price/,3,0,0
+1681323481744,3,api_req_product_52_price,200,,AddProductsToCart 1-3,text,true,,516,439,3,3,http://localhost:8080/api/v1/product/52/price/,3,0,0
+1681323482716,19,S01_APC_T07_AddChairToCart_user2,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-2,,true,,4714,903,3,3,null,0,2457,0
+1681323482716,17,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-2,text,true,,2315,476,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,17,0,0
+1681323482733,2,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-2,text,true,,2399,427,3,3,http://localhost/api/v1/cart/441c72e697074887ba95ee6bb8fe69d7?lang=en,1,0,0
+1681323484495,15,S01_APC_T03_OpenTableProductCart_user5,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-3,,true,,16493,1662,3,3,null,0,1093,0
+1681323484496,9,S01_APC_T03OpenTableProductCart_REQ01_products,200,,AddProductsToCart 1-3,text,true,,9296,418,3,3,http://localhost:8080/api/v1/products/?lang=en&store=DEFAULT,9,0,0
+1681323484506,4,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-3,text,true,,2399,395,3,3,http://localhost/api/v1/store/DEFAULT,4,0,0
+1681323484510,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-3,text,true,,2399,427,3,3,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323484511,1,req_api_v1_category,200,OK,AddProductsToCart 1-3,text,true,,2399,422,3,3,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323485603,21,S01_APC_T04_AddTableToCart_user5,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-3,,true,,4516,908,3,3,null,0,0,0
+1681323485603,14,S01_APC_T04_AddTableToCart_REQ01_ADD_TABLE,201,,AddProductsToCart 1-3,text,true,,2258,476,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,14,0,0
+1681323485617,7,S01_APC_T04_AddTableToCart_REQ02_API_CART,200,,AddProductsToCart 1-3,text,true,,2258,432,3,3,http://localhost:8080/api/v1/cart/940673b96ddc46cab869690ab0d0cb77?lang=en,7,0,0
+1681323485624,0,Debug Sampler,200,OK,AddProductsToCart 1-3,text,true,,952,0,3,3,null,0,0,0
+1681323483415,14,S01_APC_T07_AddChairToCart_user4,200,"Number of samples in transaction : 2, number of failing samples : 0",AddProductsToCart 1-5,,true,,4714,903,2,2,null,0,2780,0
+1681323483415,13,S01_APC_T07_AddChairToCart_REQ01_ADD_CHAIR,201,,AddProductsToCart 1-5,text,true,,2315,476,3,3,http://localhost:8080/api/v1/cart/?store=DEFAULT,12,0,0
+1681323483428,1,S01_APC_T07_AddChairToCart_REQ02_API_CART,200,OK,AddProductsToCart 1-5,text,true,,2399,427,3,3,http://localhost/api/v1/cart/32a3c39140cf457ab74418208693bdc0?lang=en,1,0,0
+1681323486209,0,Debug Sampler,200,OK,AddProductsToCart 1-5,text,true,,951,0,2,2,null,0,0,0
+1681323485192,10,S01_APC_T08_OpenCart_user2,200,"Number of samples in transaction : 4, number of failing samples : 0",AddProductsToCart 1-2,,true,,9455,1682,1,1,null,0,2163,0
+1681323485193,6,S01_APC_T08_OpenCart_REQ01_cart,200,,AddProductsToCart 1-2,text,true,,2258,438,3,3,http://localhost:8080/api/v1/cart/441c72e697074887ba95ee6bb8fe69d7?store=DEFAULT,6,0,0
+1681323485200,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,3,3,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323485201,2,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,3,3,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,2,0,0
+1681323485203,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,3,3,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323487365,13,S01_APC_T09_ClickProceedToCheckout_user2,200,"Number of samples in transaction : 8, number of failing samples : 0",AddProductsToCart 1-2,,true,,19192,3295,1,1,null,0,2742,0
+1681323487365,5,S01_APC_T09_ClickProceedToCheckout_REQ01_CHECKOUT,200,OK,AddProductsToCart 1-2,text,true,,2399,383,1,1,http://localhost/checkout,5,0,0
+1681323487370,2,S01_APC_T09_ClickProceedToCheckout_REQ02_CART,200,OK,AddProductsToCart 1-2,text,true,,2399,433,1,1,http://localhost/api/v1/cart/441c72e697074887ba95ee6bb8fe69d7?store=DEFAULT,2,0,0
+1681323487373,1,S01_APC_T09_ClickProceedToCheckout_REQ03_SHIPPING_COUNTRY,200,OK,AddProductsToCart 1-2,text,true,,2399,420,1,1,http://localhost/api/v1/shipping/country?lang=en&store=DEFAULT,1,0,0
+1681323487374,1,S01_APC_T09_ClickProceedToCheckout_REQ04_CONFIG,200,OK,AddProductsToCart 1-2,text,true,,2399,389,1,1,http://localhost/api/v1/config/,1,0,0
+1681323487375,1,S01_APC_T09_ClickProceedToCheckout_REQ05_TOTAL,200,OK,AddProductsToCart 1-2,text,true,,2399,426,1,1,http://localhost/api/v1/cart/441c72e697074887ba95ee6bb8fe69d7/total/,1,0,0
+1681323487376,1,req_api_v1_store_DEFAULT,200,OK,AddProductsToCart 1-2,text,true,,2399,395,1,1,http://localhost/api/v1/store/DEFAULT,1,0,0
+1681323487377,1,req_api_v1_content_pages,200,OK,AddProductsToCart 1-2,text,true,,2399,427,1,1,http://localhost/api/v1/content/pages/?count=20&page=0&store=&lang=en,1,0,0
+1681323487378,1,req_api_v1_category,200,OK,AddProductsToCart 1-2,text,true,,2399,422,1,1,http://localhost/api/v1/category/?count=20&page=0&store=&lang=en,1,0,0
+1681323490119,0,Debug Sampler,200,OK,AddProductsToCart 1-2,text,true,,949,0,1,1,null,0,0,0
